@@ -1,9 +1,7 @@
 <h1>👨‍👦‍👦 GOTCHA: HR Product for Every People</h1> 
 
-<b> - 면접관을 위한 면접 관리 플랫폼 </b>
-<h4>
-- <a href="https://gotcha-front.vercel.app/">Site Link: 사이트 링크</a>
-</h4>
+### 🏠 [갓챠 홈페이지](https://gotcha-front.vercel.app/) 
+<b> : 면접관을 위한 면접 관리 플랫폼 </b>
 <br>
 
 ## ✨ Introduction
